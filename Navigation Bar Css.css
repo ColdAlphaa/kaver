@@ -1,0 +1,33 @@
+h1{
+    text-shadow: 2px 2px 3px black;
+}
+body{
+    background-image: url(https://previews.123rf.com/images/krekdm/krekdm1607/krekdm160700283/61897878-modelo-incons%C3%BAtil-de-los-alimentos-se-puede-utilizar-para-fondos-de-escritorio-fondo-de-p%C3%A1gina-web-p.jpg);
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.topofnav{
+    overflow: hidden;
+    background-color: transparent;
+}
+
+.topofnav a{
+    float: right;
+    color:#D4E3EC;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topofnav a:hover{
+    background-color: transparent;
+    color: #333;
+}
+.topofnav a.active{
+    color: #333;
+}
+P{
+    text-shadow: 2px 2px 3px black;
+    color: floralwhite;
+}
